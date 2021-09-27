@@ -80,7 +80,6 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   <br/>
 
 ![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD%20PLATAFORM-4285F4.svg?&style=flat&logo=google-cloud&logoColor=white)&nbsp;
-![Onion Architecture](https://img.shields.io/badge/ONION%20ARCHITECTURE-A81C7D.svg?&style=flat&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
 ![JSP](https://img.shields.io/badge/JSP-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;

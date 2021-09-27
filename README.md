@@ -109,7 +109,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
  
         
-  
+*Inspiração e créditos: https://github.com/brunotacca/brunotacca*  
 
 
 <!---

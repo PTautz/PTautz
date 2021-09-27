@@ -72,7 +72,6 @@ oracle, mariadb, mongodb,
 Kubernates, puppet, github actions
 python, c, cpp, arduino
 php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
 -->
 
 <details>

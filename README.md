@@ -22,7 +22,7 @@
 <hr/>
 <br/>
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Core Learning Technologies</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;

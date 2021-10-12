@@ -4,7 +4,7 @@
 
 ### 🛸: &nbsp;About me
 - 👋 Hi, I’m Patrícia Tautz
-- 🎲 I Like Technology, Games, RPG and Digital Painting
+- 🎲 I like Technology, Games, RPG and Digital Painting
 - 🌱 I'm currently learning Java and studying systems analysis and software development
 - 👨‍👩‍👧‍👧 Living in Brazil with my lovely baby 👶🏻, my husband 💕, Donatello 🐶, and Galvão 🐦
 
